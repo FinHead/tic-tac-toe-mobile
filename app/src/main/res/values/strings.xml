@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">TicTacToe</string>
+    <string name="app_name">Tic Tac Toe</string>
+
+    <string name="tag1">0</string>
+    <string name="tag2">1</string>
+    <string name="tag3">2</string>
+    <string name="tag4">3</string>
+    <string name="tag5">4</string>
+    <string name="tag6">5</string>
+    <string name="tag7">6</string>
+    <string name="tag8">7</string>
+    <string name="tag9">8</string>
 </resources>
